@@ -90,3 +90,7 @@ body::before{
     margin-top: 20px;
     width: 420px;
 }
+.personagem{
+    cursor: pointer;
+}
+    
